@@ -43,7 +43,6 @@ This project involves the development and configuration of Active Directory Doma
 ## Technologies and Tools
 - Windows Server 2019
 - Windows 10
-- Ubuntu Server
 - Active Directory Domain Services (AD DS)
 - DHCP
 - DNS
